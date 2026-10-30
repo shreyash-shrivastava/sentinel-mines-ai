@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.pt
+*_ncnn_model/
+*.log
+.DS_Store

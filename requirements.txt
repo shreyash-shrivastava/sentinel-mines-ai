@@ -1,0 +1,5 @@
+flask>=3.0,<4
+ultralytics>=8.3,<9
+adafruit-blinka>=8,<10
+adafruit-circuitpython-dht>=4,<5
+gpiozero>=2.0.1.post3,<3
